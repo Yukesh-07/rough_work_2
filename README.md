@@ -1,1 +1,3 @@
-# rough_work_2
+# Cat_Boost
+
+Started to explore the cat boost model in python.
